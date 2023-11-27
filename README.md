@@ -10,5 +10,5 @@ Just add the custom list name in place of "CustomName" in the URL.
 Add items by using + button.
 Delete the item from the list by just checking the checkbox.
 
-## Hosted Live
+## Hosted Live (Currently down)
 Hosted live on internet: https://afternoon-caverns-39154.herokuapp.com/
